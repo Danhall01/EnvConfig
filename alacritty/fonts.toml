@@ -1,0 +1,18 @@
+[font]
+size = 15
+
+[font.bold]
+family = "IosevkaTermNerdFont"
+style = "Bold"
+
+[font.bold_italic]
+family = "IosevkaTermNerdFont"
+style = "Bold Italic"
+
+[font.italic]
+family = "IosevkaTermNerdFont"
+style = "Italic"
+
+[font.normal]
+family = "IosevkaTermNerdFont"
+style = "Medium"

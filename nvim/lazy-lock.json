@@ -1,0 +1,9 @@
+{
+  "ale": { "branch": "master", "commit": "6db58b33795430a6165f27c7f796c420c0e098e4" },
+  "coq_nvim": { "branch": "coq", "commit": "3b5afaab62a2e909a29bd4818a9d3105535f13e2" },
+  "github-nvim-theme": { "branch": "main", "commit": "d92e1143e5aaa0d7df28a26dd8ee2102df2cadd8" },
+  "lazy.nvim": { "branch": "main", "commit": "31ddbea7c10b6920c9077b66c97951ca8682d5c8" },
+  "nvim-lspconfig": { "branch": "master", "commit": "9619e53d3f99f0ca4ea3b88f5d97fce703131820" },
+  "nvim-treesitter": { "branch": "master", "commit": "11a3584b81c3249d2b6279305aee1c7ad273985a" },
+  "poimandres.nvim": { "branch": "main", "commit": "77635055e686ae3c8a519198006ff0b43b6b2eae" }
+}
